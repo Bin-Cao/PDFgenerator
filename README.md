@@ -22,7 +22,10 @@ Click "Generate PDF" to calculate and generate the results.
 ![image](https://github.com/user-attachments/assets/f1b50f7f-37f2-4b6b-8767-a430064a6135)
 
 ## Citation
-Cao Bin, PDFgenerator (software), 2024, DOI: [10.6084/m9.figshare.27999278](https://doi.org/10.6084/m9.figshare.27999278). Please cite this software when using it in your research.
+Cao Bin, PDFgenerator (software), 2024, DOI: [10.6084/m9.figshare.27999278](https://doi.org/10.6084/m9.figshare.27999278). 
+
+
+Please cite this software when using it in your research.
 
 ## Contact Information
 For any inquiries, contact Mr. CAO Bin:  
