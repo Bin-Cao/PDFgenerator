@@ -3,7 +3,7 @@ A toolkit for generating Powder Diffraction File (PDF) from Crystallographic Inf
 
 The software is developed for generating a Powder Diffraction File (PDF) from an uploaded Crystallographic Information File (CIF). The operation can be divided into three key steps:
 
-## 1. Start the software
+## 1. Start the software (./PDFgenerator.exe)
 Click the software to start. The interface is shown below:
 
 
