@@ -1,7 +1,7 @@
 # PDFgenerator software
 # Citation: Cao Bin, PDFgenerator (software), 2024, DOI: 10.6084/m9.figshare.27999278
 # Author: Bin CAO, HKUST(GZ), http://www.caobin.asia/ 
-# Executed on : 2024-12-10 18:03:11 | Have a great day. 
+# Executed on : 2024-12-10 18:13:59 | Have a great day. 
 
 # Structure information for P21_c
 Full Formula (Al8 Ni6 O20)
