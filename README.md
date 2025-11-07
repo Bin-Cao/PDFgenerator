@@ -51,7 +51,4 @@ Cao Bin, PDFgenerator (software), 2024, DOI: [10.6084/m9.figshare.27999278](http
 
 Please cite this software when using it in your research.
 
-## Contact Information
-For any inquiries, contact Mr. CAO Bin:  
-Email: [bcao686@connect.hkust-gz.edu.cn](mailto:bcao686@connect.hkust-gz.edu.cn)  
-Website: [http://www.caobin.asia/](http://www.caobin.asia/)
+
